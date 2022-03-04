@@ -2,6 +2,7 @@ Practice tutorial from this link: https://examples.javacodegeeks.com/spring-boot
 
 
 Submit the JSON object in POSTMAN request body to end URL http://localhost:10091/api/redis/employee
+
 {
     "id":"1",
     "name":"Arian",
